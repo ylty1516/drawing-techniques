@@ -13,5 +13,6 @@
 | [换光源时怎样留住角色的识别色](techniques/character-color-across-lighting.md) | 同一名角色进入窗边、室内灯光等不同色光环境 |
 | [跑动分镜先排动作轴，再检查画面方向](techniques/screen-direction-in-motion.md) | 画跑步、赶车或其他连续移动的镜头 |
 | [用硬边、软边和消失边安排画面重点](techniques/edge-control-for-focus.md) | 同一张画里的窗框、物件和暗部轮廓都过于抢眼 |
+| [用蒙版和差值验收局部重绘](techniques/local-edit-mask-and-difference.md) | 修手部、道具接缝或衣料小缺口时，需要保住画面其余位置 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
