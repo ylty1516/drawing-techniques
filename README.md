@@ -23,5 +23,6 @@
 | [用眼睑和下颌画出三档表情](techniques/facial-expression-strength.md) | 同一角色需要有克制和夸张的反应，连读时还要认得出是同一张脸 |
 | [用线条粗细画清物体的遮挡关系](techniques/line-weight-at-overlaps.md) | 袖口压过纸面、道具被手指盖住等细节缩小后挤在一起 |
 | [给跨格道具记下位置和状态](techniques/prop-state-across-panels.md) | 连续镜头里的道具被拿走、交换或破损，画面需要保留动作造成的变化 |
+| [用色彩脚本安排强调色出现的时机](techniques/color-script-accent-timing.md) | 想让灯亮、天色转变或发现线索的那一格有清楚的色彩转折 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
