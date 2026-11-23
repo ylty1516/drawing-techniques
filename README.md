@@ -8,5 +8,6 @@
 | --- | --- |
 | [控制连续分镜的机位、质感和气泡](techniques/scene-continuity-and-lettering.md) | 同一场景有多个动作或表情变化，单页生成后读起来像多张独立插图 |
 | [画握持动作时先定接触和受力](techniques/hand-prop-contact.md) | 提包、持物或放手时，带子和物体的重量感需要读清 |
+| [用三阶灰度小稿安排画面焦点](techniques/three-value-thumbnails.md) | 上色或生成前安排人物与背景的明暗，检验缩小后的读图顺序 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
