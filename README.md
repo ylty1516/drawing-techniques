@@ -24,5 +24,6 @@
 | [用线条粗细画清物体的遮挡关系](techniques/line-weight-at-overlaps.md) | 袖口压过纸面、道具被手指盖住等细节缩小后挤在一起 |
 | [给跨格道具记下位置和状态](techniques/prop-state-across-panels.md) | 连续镜头里的道具被拿走、交换或破损，画面需要保留动作造成的变化 |
 | [用色彩脚本安排强调色出现的时机](techniques/color-script-accent-timing.md) | 想让灯亮、天色转变或发现线索的那一格有清楚的色彩转折 |
+| [换机位时从肩膀核对同一只手](techniques/hand-side-across-camera-views.md) | 举手、挥手或交接物件从正面切到背面，容易把人物自己的左右画反 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
