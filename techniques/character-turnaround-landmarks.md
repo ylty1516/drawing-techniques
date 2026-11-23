@@ -6,7 +6,7 @@
 
 D’source 的动画角色课程用正面、四分之三、侧面和背面记录角色比例。Stan Prokopenko 的头部教程用头骨和侧面形状判断转向，并用眉线到耳朵的角度提示抬头和低头。 [D’source 的角色设定表课程](https://www.dsource.in/course/character-design-animation/model-sheet) · [Proko 的不同角度画头教程](https://www.proko.com/course-lesson/how-to-draw-the-head-from-any-angle/)
 
-## 先标准线和角色自己的左右
+## 标好基准线和角色自己的左右
 
 1. 先在同一视平线和中性表情下画正面、常用的四分之三面和侧面。横向拉出眉线、鼻底和下巴三条基准线，对照各稿的高度。遇到俯仰时，先为新镜头重画头部中线和眉耳方向，再沿转过的头部摆五官。
 2. 给角色挑几处隔着尺度也认得出的形状。试画用短方下巴、偏低的发梢和浅围巾。正面过渡到四分之三面时，远侧的眼和脸颊可以适当压窄，近侧转折按头骨和颌骨安排。
