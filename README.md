@@ -29,5 +29,6 @@
 | [右边的人先开口时怎样排气泡](techniques/balloon-order-when-right-speaker-starts.md) | 两人同框、右边先发问，气泡易读错顺序或两根尾巴交叉 |
 | [用高光的宽度和亮度区分材质](techniques/material-highlight-width-and-strength.md) | 同一场景里的釉面、磨砂面与布料都被画成了相似的光泽 |
 | [用机位距离控制特写里的五官比例](techniques/camera-distance-and-face-proportions.md) | 同一角色切到面部近景后，鼻翼、脸颊和耳朵的比例容易漂移 |
+| [把无字反应格留在回答之前](techniques/silent-reaction-before-dialogue.md) | 角色听完消息先有短暂的表情变化，下一句对白需要留到他整理好反应之后 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
