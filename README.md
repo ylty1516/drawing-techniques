@@ -19,5 +19,6 @@
 | [用手机视口校准条漫的格距和揭示位置](techniques/scroll-gutter-and-reveal.md) | 滚动条漫需要在停顿后才露出表情或道具 |
 | [用成品尺寸检查中文气泡的字号和断行](techniques/chinese-balloon-lettering-at-phone-width.md) | 漫画缩到手机宽度后，气泡太小或标点、孤字掉进下一行 |
 | [用落脚点和髋部位移表现动作重量](techniques/foot-contact-and-weight-shift.md) | 起步、刹停或站起的相邻镜头里，脚底像在滑，或者看不出哪条腿承重 |
+| [把上一格的视线接到下一格的线索](techniques/eyeline-and-clue-in-next-panel.md) | 角色发现隐蔽物件时，切到特写后读者需要重新找线索 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
