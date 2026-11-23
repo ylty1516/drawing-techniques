@@ -34,5 +34,6 @@
 | [用留缝或重叠拆开意外相切的轮廓](techniques/tangencies-gap-and-overlap.md) | 侧脸、手肘或道具边缘恰好贴到背景线，人物和场景的前后关系变含糊 |
 | [让前中后景在横移镜头里产生视差](techniques/layered-parallax-for-sideways-camera-moves.md) | 用二维画稿做横移镜头，希望栏杆、人物和远景显得处在不同距离 |
 | [用逐帧位置的间距画出减速停下](techniques/spacing-for-a-decelerating-stop.md) | 连续帧起止位置固定，需要让物体靠近终点时逐渐减速 |
+| [用四点透视贴好纸条和招牌上的字](techniques/four-point-perspective-for-prop-text.md) | 公告、门牌或斜着的屏幕上需要出现准确可读的文字 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
