@@ -4,7 +4,7 @@
 
 同一个人一直跑向终点，换到跑道对面拍，画面里可能变成朝相反的方向跑。短跑、赶车或穿过走廊这类连续动作，可以先画一张俯视小稿，把空间里的路线和每格里的左右方向都定下来。
 
-洛约拉马利蒙特大学的电影制作教材用动作轴解释机位与画面方向，还示范了从轴线上取景，再建立新方向的方法。澳大利亚电影电视广播学校的教材用同侧机位图说明怎样保持相邻镜头的左右关系。把这两种做法用到单人跑动时，可沿当前这段行进路径画轴。 [LMU 的画面方向教材](https://lmu.pressbooks.pub/filmmaking/chapter/screen-direction/) · [AFTRS 的 180 度规则图解](https://medialab.aftrs.edu.au/wp-content/uploads/2020/11/AFTRS16_Documentary.pdf#page=23)
+洛约拉马利蒙特大学的电影制作教材用动作轴解释机位与画面方向，还示范了从轴线上取景，再建立新方向的方法。澳大利亚电影电视广播学校的教材用同侧机位图说明怎样保持相邻镜头的左右关系。把这两种做法用到单人跑动时，可沿当前这段行进路径画轴。 [LMU 的画面方向教材](https://lmu.pressbooks.pub/filmmaking/chapter/screen-direction/) · [AFTRS 教材第 16 页的 180 度规则图解](https://medialab.aftrs.edu.au/wp-content/uploads/2020/11/AFTRS16_Documentary.pdf)
 
 ## 按顺序定好路线和机位
 
