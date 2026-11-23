@@ -21,5 +21,6 @@
 | [用落脚点和髋部位移表现动作重量](techniques/foot-contact-and-weight-shift.md) | 起步、刹停或站起的相邻镜头里，脚底像在滑，或者看不出哪条腿承重 |
 | [把上一格的视线接到下一格的线索](techniques/eyeline-and-clue-in-next-panel.md) | 角色发现隐蔽物件时，切到特写后读者需要重新找线索 |
 | [用眼睑和下颌画出三档表情](techniques/facial-expression-strength.md) | 同一角色需要有克制和夸张的反应，连读时还要认得出是同一张脸 |
+| [用线条粗细画清物体的遮挡关系](techniques/line-weight-at-overlaps.md) | 袖口压过纸面、道具被手指盖住等细节缩小后挤在一起 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
