@@ -31,5 +31,6 @@
 | [用机位距离控制特写里的五官比例](techniques/camera-distance-and-face-proportions.md) | 同一角色切到面部近景后，鼻翼、脸颊和耳朵的比例容易漂移 |
 | [把无字反应格留在回答之前](techniques/silent-reaction-before-dialogue.md) | 角色听完消息先有短暂的表情变化，下一句对白需要留到他整理好反应之后 |
 | [把动作线画在物体走过的一侧](techniques/motion-lines-behind-the-movement.md) | 同一格里需要交代物体滑动、人物奔跑或局部挥动的具体方向 |
+| [用留缝或重叠拆开意外相切的轮廓](techniques/tangencies-gap-and-overlap.md) | 侧脸、手肘或道具边缘恰好贴到背景线，人物和场景的前后关系变含糊 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
