@@ -32,5 +32,6 @@
 | [把无字反应格留在回答之前](techniques/silent-reaction-before-dialogue.md) | 角色听完消息先有短暂的表情变化，下一句对白需要留到他整理好反应之后 |
 | [把动作线画在物体走过的一侧](techniques/motion-lines-behind-the-movement.md) | 同一格里需要交代物体滑动、人物奔跑或局部挥动的具体方向 |
 | [用留缝或重叠拆开意外相切的轮廓](techniques/tangencies-gap-and-overlap.md) | 侧脸、手肘或道具边缘恰好贴到背景线，人物和场景的前后关系变含糊 |
+| [让前中后景在横移镜头里产生视差](techniques/layered-parallax-for-sideways-camera-moves.md) | 用二维画稿做横移镜头，希望栏杆、人物和远景显得处在不同距离 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
