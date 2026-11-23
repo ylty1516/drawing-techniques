@@ -16,5 +16,6 @@
 | [用蒙版和差值验收局部重绘](techniques/local-edit-mask-and-difference.md) | 修手部、道具接缝或衣料小缺口时，需要保住画面其余位置 |
 | [用转面表固定角色比例和单侧特征](techniques/character-turnaround-landmarks.md) | 同一角色换方向时，五官比例、发型和单侧饰物容易画漂 |
 | [用眼平线和地面网格校准远近人物](techniques/eye-level-and-figure-scale.md) | 画走廊、站台或室内多人场景时，需要判断人物是否站在同一空间 |
+| [用手机视口校准条漫的格距和揭示位置](techniques/scroll-gutter-and-reveal.md) | 滚动条漫需要在停顿后才露出表情或道具 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
