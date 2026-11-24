@@ -57,5 +57,6 @@
 | [杯子倾斜后，用水平面定停稳的水线](techniques/keep-settled-liquid-level-in-a-tilted-glass.md) | 透明杯被倾斜拿住，液体已停稳，需要核对液面与杯沿及两侧杯壁的位置 |
 | [把底色扩进线稿下方，收掉上色白边](techniques/extending-flat-colors-under-line-art.md) | 填色后抗锯齿线旁留下一圈底纸色，想补齐线下空隙并保住轮廓 |
 | [一站一坐的正反打，按对方眼高画视线](techniques/match-vertical-eyelines-in-a-shot-reverse-shot.md) | 对话从一人切到另一人时，两人一站一坐或有台阶高差，要让目光接得上 |
+| [让布带的弯折从夹口传到尾端](techniques/delay-ribbon-motion-from-root-to-tip.md) | 布带、围巾或发梢被一端带动，需要把相邻各段的弯折排在不同帧 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
