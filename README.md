@@ -55,5 +55,6 @@
 | [眨眼时少用几帧合拢，多留几帧回睁](techniques/close-quickly-and-reopen-a-blink-more-slowly.md) | 人物在同一机位短暂眨眼，合拢和回睁的节奏容易画成镜像 |
 | [小灯离墙更远时，压暗中心并铺宽过渡](techniques/spread-and-dim-a-wall-light-with-distance.md) | 同一盏小灯沿垂直于墙的方向移近或移远，要调整漫反射墙面上的亮斑 |
 | [杯子倾斜后，用水平面定停稳的水线](techniques/keep-settled-liquid-level-in-a-tilted-glass.md) | 透明杯被倾斜拿住，液体已停稳，需要核对液面与杯沿及两侧杯壁的位置 |
+| [把底色扩进线稿下方，收掉上色白边](techniques/extending-flat-colors-under-line-art.md) | 填色后抗锯齿线旁留下一圈底纸色，想补齐线下空隙并保住轮廓 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
