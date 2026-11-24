@@ -25,7 +25,7 @@
 | [给跨格道具记下位置和状态](techniques/prop-state-across-panels.md) | 连续镜头里的道具被拿走、交换或破损，画面需要保留动作造成的变化 |
 | [用色彩脚本安排强调色出现的时机](techniques/color-script-accent-timing.md) | 想让灯亮、天色转变或发现线索的那一格有清楚的色彩转折 |
 | [换机位时从肩膀核对同一只手](techniques/hand-side-across-camera-views.md) | 举手、挥手或交接物件从正面切到背面，容易把人物自己的左右画反 |
-| [用投影画清物件是贴地还是离地](techniques/cast-shadow-and-ground-contact.md) | 鞋底、箱底或道具的底边看起来悬浮，腾空动作也需要交代离地高度 |
+| [用投影画清物件是贴地还是离地](techniques/cast-shadow-and-ground-contact.md) | 用投影位置表现接触和离地，同一片影子按承影距离调整边缘 |
 | [右边的人先开口时怎样排气泡](techniques/balloon-order-when-right-speaker-starts.md) | 两人同框、右边先发问，气泡易读错顺序或两根尾巴交叉 |
 | [用高光的宽度和亮度区分材质](techniques/material-highlight-width-and-strength.md) | 同一场景里的釉面、磨砂面与布料都被画成了相似的光泽 |
 | [用机位距离控制特写里的五官比例](techniques/camera-distance-and-face-proportions.md) | 同一角色切到面部近景后，鼻翼、脸颊和耳朵的比例容易漂移 |
