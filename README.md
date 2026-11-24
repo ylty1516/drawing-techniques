@@ -62,5 +62,6 @@
 | [影子从地板上墙时，在墙脚找转折](techniques/bend-a-cast-shadow-at-the-floor-wall-seam.md) | 竖直物件的影子从地板延到墙面，需要让两段投影在墙脚的同一点相接 |
 | [用曝光期间的位移估拖影长度](techniques/size-motion-blur-from-exposure-displacement.md) | 快速动作需要画运动模糊，想按画面位移控制拖影的方向和长度 |
 | [长尾气泡按泡身居中对白](techniques/center-dialogue-in-the-balloon-body.md) | 气泡尾巴较长或偏向一侧，自动居中时对白容易被带向泡边 |
+| [画刘海时保留成块的亮面](techniques/keep-a-clear-light-shape-on-the-fringe.md) | 刘海的细线很密，缩图后受光形状零碎，需要重新安排束内笔触 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
