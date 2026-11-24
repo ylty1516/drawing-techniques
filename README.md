@@ -53,5 +53,6 @@
 | [杯口和杯底分别定椭圆开度](techniques/set-the-ellipse-opening-of-a-cup.md) | 画水平机位下的直立杯子，两端圆面高度不同，需要各自定椭圆开度 |
 | [浅色拟声字跨亮暗背景时加外描边](techniques/outline-light-sound-effects-across-mixed-values.md) | 拟声字叠在亮暗交界或杂色纹理上，浅色笔画在亮背景处容易看丢 |
 | [眨眼时少用几帧合拢，多留几帧回睁](techniques/close-quickly-and-reopen-a-blink-more-slowly.md) | 人物在同一机位短暂眨眼，合拢和回睁的节奏容易画成镜像 |
+| [小灯离墙更远时，压暗中心并铺宽过渡](techniques/spread-and-dim-a-wall-light-with-distance.md) | 同一盏小灯沿垂直于墙的方向移近或移远，要调整漫反射墙面上的亮斑 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
