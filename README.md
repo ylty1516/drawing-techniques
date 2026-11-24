@@ -34,7 +34,7 @@
 | [用留缝或重叠拆开意外相切的轮廓](techniques/tangencies-gap-and-overlap.md) | 侧脸、手肘或道具边缘恰好贴到背景线，人物和场景的前后关系变含糊 |
 | [让前中后景在横移镜头里产生视差](techniques/layered-parallax-for-sideways-camera-moves.md) | 用二维画稿做横移镜头，希望栏杆、人物和远景显得处在不同距离 |
 | [用逐帧位置的间距画出减速停下](techniques/spacing-for-a-decelerating-stop.md) | 连续帧起止位置固定，需要让物体靠近终点时逐渐减速 |
-| [用四点透视贴好纸条和招牌上的字](techniques/four-point-perspective-for-prop-text.md) | 公告、门牌或斜着的屏幕上需要出现准确可读的文字 |
+| [用四点透视贴好纸条和招牌上的字](techniques/four-point-perspective-for-prop-text.md) | 公告、门牌或折纸上需要准确嵌入跟随透视的文字 |
 | [用雾色和明暗差画出近中远景](techniques/fog-color-and-depth-contrast.md) | 迷雾、雨后或远景氛围过于均匀，想保留画面中的前后层次 |
 | [用准备姿势交代下一拍的动作](techniques/anticipation-in-comic-panels.md) | 连续分镜要在起跳或加速前让读者看到重心和方向 |
 | [让包上挂件晚一拍停下](techniques/follow-through-on-bag-charms.md) | 人物、包身或手里的道具停住后，松垂的挂件仍有回摆 |
