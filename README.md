@@ -39,5 +39,6 @@
 | [用准备姿势交代下一拍的动作](techniques/anticipation-in-comic-panels.md) | 连续分镜要在起跳或加速前让读者看到重心和方向 |
 | [让包上挂件晚一拍停下](techniques/follow-through-on-bag-charms.md) | 人物、包身或手里的道具停住后，松垂的挂件仍有回摆 |
 | [用镜框判断倒影的可见范围](techniques/clip-reflections-to-mirror-frame.md) | 换机位后需要核对镜里还看得到哪些角色、道具和局部 |
+| [从中景切到特写时对齐动作进度](techniques/match-action-into-close-ups.md) | 同一个动作切换景别或机位后，手、道具与位移需要接在同一动作阶段 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
