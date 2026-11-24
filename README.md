@@ -71,5 +71,6 @@
 | [画坐姿呼吸时，先保住坐面和脚底的接触](techniques/keep-seat-and-foot-contact-in-a-breathing-idle.md) | 人物坐着等待或听话，需要有轻微呼吸起伏，同时保留与椅子和地面的接触 |
 | [斜看入水的直笔时，按视深画水下那一段](techniques/raise-the-apparent-position-of-a-submerged-object.md) | 直笔、枝条或吸管斜跨水面，从上方观察时需要画出水下的折射位置 |
 | [画雨丝时，先按画面里的远近定长短](techniques/scale-rain-streak-length-with-camera-depth.md) | 一场雨里的长短线需要交代空间，用前中后层安排雨丝的投影长度 |
+| [画单盏侧逆光时，沿朝灯的轮廓留亮边](techniques/place-rim-light-on-light-facing-edges.md) | 单盏侧逆光下，发梢与外肩的亮边要随受光面和遮挡起止 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
