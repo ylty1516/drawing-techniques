@@ -50,5 +50,6 @@
 | [同一机位里怎样从近物转焦到远处](techniques/rack-focus-between-depth-layers.md) | 构图保持一致，剧情重点从近处线索移到远处人物或动作 |
 | [画「妈妈」的口型时留出两次合唇](techniques/mark-lip-closures-in-mandarin-lip-sync.md) | 对白动画里的双唇音需要按录音合唇，再接到下一拍的开口 |
 | [水面倒影先对齐水线，再随波纹错开](techniques/ripple-offsets-in-water-reflections.md) | 临水的竖物已有倒影，想用几道横向波纹画出水面的起伏 |
+| [杯口和杯底分别定椭圆开度](techniques/set-the-ellipse-opening-of-a-cup.md) | 画水平机位下的直立杯子，两端圆面高度不同，需要各自定椭圆开度 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
