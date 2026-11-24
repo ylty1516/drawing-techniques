@@ -67,5 +67,6 @@
 | [切到新场景时，对齐相似轮廓的位置](techniques/line-up-similar-shapes-across-a-scene-cut.md) | 两格跨越地点或时间，想用相似的轮廓和相对位置把它们接起来 |
 | [递东西时，留一格让两只手同时接触](techniques/draw-two-contact-points-in-an-object-handover.md) | 稳稳把道具递给另一人，交接中间格需要看清谁还握着、谁已经接住 |
 | [把桌面的暖色回光画在朝下的暗部](techniques/place-warm-bounce-light-on-downward-facing-shadow-planes.md) | 上方主光照着浅色物体，下方是彩色桌面，需要在暗部交代反射光 |
+| [画开门分镜时，先锁住铰链轴](techniques/keep-the-hinge-axis-fixed-in-opening-door-panels.md) | 同一扇平开门连续转动，需要让门扇贴合铰链，同时交代把手的轨迹 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
