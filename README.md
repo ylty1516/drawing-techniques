@@ -42,5 +42,6 @@
 | [从中景切到特写时对齐动作进度](techniques/match-action-into-close-ups.md) | 同一个动作切换景别或机位后，手、道具与位移需要接在同一动作阶段 |
 | [弯肘时先画袖子的内侧压褶](techniques/draw-compression-folds-at-bent-elbow.md) | 合体袖随关节弯曲时，需要画清内侧挤折和外侧布面 |
 | [用气泡尾巴区分对讲机和画外人声](techniques/balloon-tails-for-radio-and-off-panel-voices.md) | 同一格出现设备里传来的话和画外人物对白，两个声音需要各有明确方向 |
+| [让眼睛先找到目标，再转头](techniques/let-the-eyes-lead-a-head-turn.md) | 人物先察觉侧面的动静，想画出一瞥与随后转头之间的短暂反应 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
