@@ -58,5 +58,6 @@
 | [把底色扩进线稿下方，收掉上色白边](techniques/extending-flat-colors-under-line-art.md) | 填色后抗锯齿线旁留下一圈底纸色，想补齐线下空隙并保住轮廓 |
 | [一站一坐的正反打，按对方眼高画视线](techniques/match-vertical-eyelines-in-a-shot-reverse-shot.md) | 对话从一人切到另一人时，两人一站一坐或有台阶高差，要让目光接得上 |
 | [让布带的弯折从夹口传到尾端](techniques/delay-ribbon-motion-from-root-to-tip.md) | 布带、围巾或发梢被一端带动，需要把相邻各段的弯折排在不同帧 |
+| [两片薄纱重叠时，逐层压低窗框的对比](techniques/reduce-window-contrast-through-overlapping-sheers.md) | 窗前的两片半透明帘有重叠，需要让两层底下的窗框比一层底下更淡 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
