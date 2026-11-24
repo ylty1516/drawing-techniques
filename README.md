@@ -64,5 +64,6 @@
 | [长尾气泡按泡身居中对白](techniques/center-dialogue-in-the-balloon-body.md) | 气泡尾巴较长或偏向一侧，自动居中时对白容易被带向泡边 |
 | [画刘海时保留成块的亮面](techniques/keep-a-clear-light-shape-on-the-fringe.md) | 刘海的细线很密，缩图后受光形状零碎，需要重新安排束内笔触 |
 | [画眼镜反光时，给瞳孔留出空间](techniques/keep-glasses-reflections-clear-of-the-pupils.md) | 戴眼镜的人物近景需要读清视线，镜片还要交代窗光或灯光的来源 |
+| [切到新场景时，对齐相似轮廓的位置](techniques/line-up-similar-shapes-across-a-scene-cut.md) | 两格跨越地点或时间，想用相似的轮廓和相对位置把它们接起来 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
