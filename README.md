@@ -46,5 +46,6 @@
 | [用对角线排远近等宽的窗格](techniques/equal-window-bays-in-perspective.md) | 同一面墙上的窗框、栏杆或货架需要按真实距离等距，画面上应随纵深变窄 |
 | [放拟声词时留出接触点](techniques/place-sound-effects-near-contact.md) | 在撞击、关门或落地画面上嵌入拟声词时保留发声处的接触细节 |
 | [食指朝向镜头时怎样画透视缩短](techniques/foreshorten-a-finger-toward-camera.md) | 手指伸向镜头时，需要校对指轴间距、指尖大小和较远指节的遮挡 |
+| [固定机位怎样检查背景闪烁](techniques/check-background-flicker-in-locked-shots.md) | 人物在动，静态墙面或窗框在相邻帧出现位置和颜色波动 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
