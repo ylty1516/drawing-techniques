@@ -48,5 +48,6 @@
 | [食指朝向镜头时怎样画透视缩短](techniques/foreshorten-a-finger-toward-camera.md) | 手指伸向镜头时，需要校对指轴间距、指尖大小和较远指节的遮挡 |
 | [固定机位怎样检查背景闪烁](techniques/check-background-flicker-in-locked-shots.md) | 人物在动，静态墙面或窗框在相邻帧出现位置和颜色波动 |
 | [同一机位里怎样从近物转焦到远处](techniques/rack-focus-between-depth-layers.md) | 构图保持一致，剧情重点从近处线索移到远处人物或动作 |
+| [画「妈妈」的口型时留出两次合唇](techniques/mark-lip-closures-in-mandarin-lip-sync.md) | 对白动画里的双唇音需要按录音合唇，再接到下一拍的开口 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
