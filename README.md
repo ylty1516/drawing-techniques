@@ -8,7 +8,7 @@
 | --- | --- |
 | [控制连续分镜的机位、质感和气泡](techniques/scene-continuity-and-lettering.md) | 同一场景有多个动作或表情变化，单页生成后读起来像多张独立插图 |
 | [画握持动作时先定接触和受力](techniques/hand-prop-contact.md) | 提包、持物或放手时，带子和物体的重量感需要读清 |
-| [用三阶灰度小稿安排画面焦点](techniques/three-value-thumbnails.md) | 上色或生成前安排人物与背景的明暗，检验缩小后的读图顺序 |
+| [用三阶灰度小稿安排画面焦点](techniques/three-value-thumbnails.md) | 用灰度安排画面焦点，上色后复查小道具贴邻色块的明度差 |
 | [用同一句对白试画角色的潜台词](techniques/subtext-in-character-poses.md) | 对白保持一致，用视线、肩线和手肘姿势区分表演 |
 | [换光源时怎样留住角色的识别色](techniques/character-color-across-lighting.md) | 同一名角色进入窗边、室内灯光等不同色光环境 |
 | [跑动分镜先排动作轴，再检查画面方向](techniques/screen-direction-in-motion.md) | 画跑步、赶车或其他连续移动的镜头 |
