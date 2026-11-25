@@ -73,5 +73,6 @@
 | [画雨丝时，先按画面里的远近定长短](techniques/scale-rain-streak-length-with-camera-depth.md) | 一场雨里的长短线需要交代空间，用前中后层安排雨丝的投影长度 |
 | [画单盏侧逆光时，沿朝灯的轮廓留亮边](techniques/place-rim-light-on-light-facing-edges.md) | 单盏侧逆光下，发梢与外肩的亮边要随受光面和遮挡起止 |
 | [用同一个近物校对两眼的注视方向](techniques/aim-both-eyes-at-a-nearby-target.md) | 角色从看远处转为看手边的纸角，两眼要对准同一个位置 |
+| [用每格路程校准滚动车轮的转角](techniques/match-wheel-rotation-to-distance-traveled.md) | 手推车、行李箱等滚动道具减速时，车轮的转角需要跟上每格路程 |
 
 条目会注明哪些步骤已经试做，哪些来自参考资料。复现时可以先用两三格做小样，再决定是否扩展到整章。
